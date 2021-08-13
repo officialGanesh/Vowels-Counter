@@ -1,4 +1,48 @@
 *{
     padding: 0px;
     margin: 0px;
+    background-color: hsl(209, 69%, 78%);
+    
+}
+
+#title{
+
+    display: inline-block;
+    margin: 10vh;
+    margin-left: 40rem;
+    padding: 5px;
+    font-size: xxx-large;
+    font-family:'sans-serif';
+    text-align: center;
+}
+
+.container{
+    display: flex;
+    margin-left: 45rem;
+    padding: 5px;
+}
+
+
+#text{
+
+    margin:10px;
+    padding: 2px;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 6px;
+    background-color: rgb(114, 236, 179);
+    
+}
+
+#btn{
+
+    margin-top: 2vh;
+    margin-left: 8vh;
+    text-align: center;
+    border: 1px solid black;
+    font-size: 23px;
+    text-align: center;
+    border-radius: 5px;
+    padding: 8px;
+    background-color: rgb(114, 236, 179);
 }
